@@ -47,4 +47,4 @@ Ils passent également automatiquement sur GitHub Actions lors d'un push sur la 
 
 ## Auteurs
 
-- Johan CHRILLESEN - [https://www.github.com/JohanCDev](https://www.github.com/JohanCDev)# POO_TP1
+- Johan CHRILLESEN - [https://www.github.com/JohanCDev](https://www.github.com/JohanCDev)
