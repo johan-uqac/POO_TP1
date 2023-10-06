@@ -1,6 +1,8 @@
 #ifndef __USER_HPP__
 #define __USER_HPP__
 
+#include <vector>
+
 #include "Task.hpp"
 
 /// @brief Class that represents a user.
