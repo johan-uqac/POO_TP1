@@ -25,4 +25,4 @@ jobs:
       - name: Run tests
         run: |
           ./TaskAdmin > test/result
-          diff test/result test/expected_result || { exit 1; }
+          diff test/result test/resultExpected || { exit 1; }
